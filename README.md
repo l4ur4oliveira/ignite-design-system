@@ -53,3 +53,7 @@ npm i --save clsx
 ```
 npm i @radix-ui/react-slot
 ```
+- **phosphor-react**: icon family for React.
+```
+npm i phosphor-react
+```

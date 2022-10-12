@@ -13,6 +13,7 @@ module.exports = {
       '2xl': 32
     },
     colors: {
+      'transparent': 'transparent',
       'black': '#000000',
       'white': '#ffffff',
       'gray-900': '#121214',
