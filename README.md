@@ -32,3 +32,13 @@ npm i -D tailwindcss postcss autoprefixer
 ```
 npx tailwindcss init -p
 ```
+
+Finally, Storybook was configured using Vite and NPM parameters:
+```
+npx storybook init --builder @storybook/builder-vite --use-npm
+```
+
+Running the Storybook:
+```
+npm run storybook
+```
