@@ -42,3 +42,14 @@ Running the Storybook:
 ```
 npm run storybook
 ```
+
+## Another libraries
+
+- **clsx**: for constructing className strings conditionally.
+```
+npm i --save clsx
+```
+- **radix-ui/react-slot**: lets you choose which HTML tag you want to use in your component.
+```
+npm i @radix-ui/react-slot
+```
