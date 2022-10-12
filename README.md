@@ -49,9 +49,13 @@ npm run storybook
 ```
 npm i --save clsx
 ```
-- **radix-ui/react-slot**: lets you choose which HTML tag you want to use in your component.
+- **radix-ui**
+  - `/react-slot`: lets you choose which HTML tag you want to use in your component.
+  - `/react-checkbox`: a checkbox component ready to style.
 ```
 npm i @radix-ui/react-slot
+
+npm i @radix-ui/react-checkbox
 ```
 - **phosphor-react**: icon family for React.
 ```
