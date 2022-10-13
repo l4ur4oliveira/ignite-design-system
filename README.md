@@ -61,3 +61,7 @@ npm i @radix-ui/react-checkbox
 ```
 npm i phosphor-react
 ```
+- **storybook-deployer**: allows you to deploy your Storybook into a static hosting service like GitHub Pages.
+```
+npm i @storybook/storybook-deployer --save-dev
+```
