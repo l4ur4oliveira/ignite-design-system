@@ -37,7 +37,8 @@ export const CustomComponent: StoryObj<TextProps> = {
     asChild: true,
     children: (
       <p>Text with P tag</p>
-    )
+    ),
+    className: 'p-2 border-2 border-cyan-500'
   },
   argTypes: {
     children: {

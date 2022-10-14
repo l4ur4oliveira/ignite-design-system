@@ -37,7 +37,8 @@ export const CustomComponent: StoryObj<HeadingProps> = {
     asChild: true,
     children: (
       <h1>Heading with H1 tag</h1>
-    )
+    ),
+    className: 'text-[#FF0000]'
   },
   argTypes: {
     children: {
