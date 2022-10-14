@@ -1,13 +1,16 @@
-# Design System Project
+![Design System Representation](./public/cover.png)
+<div align="center"><h1>Design System Project</h1></div>
 
-## Stack
+## 🎨 [Figma Project](https://www.figma.com/file/NX0VGxYYCxoZeZomWzhhtP/Design-System?node-id=0%3A1)
+
+## 📚 Stack
 
 - React
 - TypeScript
 - Tailwind CSS
 - Storybook
 
-## Setup
+## ⚙️ Setup
 
 The project was created using Vite with React and TypeScript options:
 ```
@@ -43,7 +46,7 @@ Running the Storybook:
 npm run storybook
 ```
 
-## Another libraries
+## 🔧 Another libraries
 
 - **clsx**: for constructing className strings conditionally.
 ```
