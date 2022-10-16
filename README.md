@@ -75,3 +75,11 @@ npm i @storybook/addon-a11y
 
 npm i @storybook/addon-interactions @storybook/jest @storybook/testing-library @storybook/test-runner --save-dev
 ```
+- **axios**: HTTP client.
+```
+npm i axios
+```
+- **msw**: mock by intercepting requests on the network level.
+```
+npm i msw msw-storybook-addon --save-dev
+```
