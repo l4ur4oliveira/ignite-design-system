@@ -67,8 +67,11 @@ npm i phosphor-react
 - **storybook**
   - `storybook-deployer`: allows you to deploy your Storybook into a static hosting service like GitHub Pages.
   - `addon-a11y`: addon to check web accessibility standards.
+  - `addon-interactions, jest, testing-library, test-runner`: allows you to write tests and to simulate user interactions to run after a story renders.
 ```
 npm i @storybook/storybook-deployer --save-dev
 
 npm i @storybook/addon-a11y
+
+npm i @storybook/addon-interactions @storybook/jest @storybook/testing-library @storybook/test-runner --save-dev
 ```
